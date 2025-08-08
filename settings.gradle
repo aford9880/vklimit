@@ -1,0 +1,2 @@
+rootProject.name = "vklimit"
+include(":app")
